@@ -5,6 +5,7 @@ RUN apt-get update && \
     ca-certificates \
     cmake \
     gcc \
+    git \
     libc6-dev \
     make \
     pkg-config
